@@ -1,4 +1,4 @@
-# Fitness-and-Nutrition-Buddy
+# Fitness and Nutrition Buddy
 
 I worked on this project with 3 other people in the Software Engineering II course at UIC.
 The main goal was to create a prototypical Android app that would merge the features of standalone nutritional apps and standalone fitness apps, while incorporating realtime data.
